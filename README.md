@@ -1,4 +1,4 @@
 # firstRepo
 This is my first Repository
 <br>
-Author - Abhishek
+Author - Abhishek (My School)
